@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "find friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadams277/friendFinder.git"
+  },
+  "author": "kaitlyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadams277/friendFinder/issues"
+  },
+  "homepage": "https://github.com/kadams277/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}

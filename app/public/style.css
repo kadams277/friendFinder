@@ -1,0 +1,44 @@
+/* Home Page */
+#jumbotron{
+	background-color: #3e3f3a;
+}
+#title{
+	color: white;
+}
+p {
+	color: white;
+}
+#searchIcon{
+	font-size: 45px;
+	padding-right: 15px;
+}
+#surveyBtn{
+	font-size: 15px;
+}
+/* Survey Page */
+#surveyTitle{
+	color: #325d88;
+}
+h3 {
+	color: #325d88;
+}
+#name, #photo{
+	width: 100%;
+}
+.form-control {
+	width: 300px;
+}
+#submitBtn{
+	width: 100%;
+	height: auto;
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+#surveyFooter{
+	margin-top: 15px;
+}
+/*Footer */
+
+#link1, #link2 {
+	color: #325d88;
+}
